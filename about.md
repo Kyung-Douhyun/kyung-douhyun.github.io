@@ -13,10 +13,10 @@ permalink: /about/
 
 <form>
     <text>이름</text>
-        <input type="text" id="name" name="name" placeholder="name:" autocomplete="off">
+        <input type="text" id="name" name="name" placeholder="이름을 적어주세요." autocomplete="off">
     <text>이메일</text>
-        <input type="text" id="email" name="email" placeholder="email:" autocomplete="off">
+        <input type="text" id="email" name="email" placeholder="이메일을 적어주세요." autocomplete="off">
     <text>메세지</text>
-        <textarea rows="5" id="message" name="message" placeholder="message:" autocomplete="off"></textarea>
+        <textarea rows="5" id="message" name="message" placeholder="메세지를 적어주세요." autocomplete="off"></textarea>
     <input type="submit" value="[ submit ]">
 </form>
