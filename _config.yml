@@ -14,4 +14,8 @@ footer: 'follow us on <a href="https://twitter.com/">twitter</a>'
 plugins:
   - jekyll-seo-tag
 baseurl: ''
-url: 'https://kyung-douhyun.github.io'
+url: 'https://EC532.github.io'
+title: 'EC532'
+description: 'EC532 Github.io'
+markdown: kramdown
+remote_theme: b2a3e8/jekyll-theme-console
