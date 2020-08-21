@@ -1,7 +1,7 @@
 title: 'EC532'
 description: 'EC532 Github.io'
 url: 'https://EC532.github.io/'
-baseurl: '/home'
+baseurl: ''
 
 header_pages:
   - index.md
