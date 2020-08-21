@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Iptime 공유기를 이용한 개인 서버 구축
-date: `r format(Sys.Date())`
-categories: back-end
+title: 'Iptime 공유기를 이용한 개인 서버 구축'
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+categories: 'back-end'
 ---
 
 ## Node.js + Express.js + AWS
