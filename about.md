@@ -4,19 +4,34 @@ title: /about
 permalink: /about/
 ---
 
-# EC532
+# EC532 (경두현)
 
-소개 페이지
+[Github.io](kyung-douhyun.github.io)
+[Email](douhyun.kyung@gmail.com)
 [Github](https://github.com/Kyung-Douhyun)
 
-## Contact
+# 스킬
 
-<form>
-    <text>이름</text>
-        <input type="text" id="name" name="name" placeholder="이름을 적어주세요." autocomplete="off">
-    <text>이메일</text>
-        <input type="text" id="email" name="email" placeholder="이메일을 적어주세요." autocomplete="off">
-    <text>메세지</text>
-        <textarea rows="5" id="message" name="message" placeholder="메세지를 적어주세요." autocomplete="off"></textarea>
-    <input type="submit" value="[ submit ]">
-</form>
+- React
+- React-Native
+- Javascript
+- Node.js
+- Express.js
+- Mysql
+- Sequelize
+- AWS ( S3, EC2, RDS )
+
+# 공부 중
+
+- Redux
+- JWT
+- FIREBASE
+
+# 기타
+
+- Notion
+- Slack
+- Figma
+- MySqlWorkBench
+- DBeaver
+- Postman
