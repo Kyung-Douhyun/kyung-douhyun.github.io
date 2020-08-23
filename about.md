@@ -6,8 +6,8 @@ permalink: /about/
 
 # EC532 (경두현)
 
-[Github.io](kyung-douhyun.github.io)
-[Email](douhyun.kyung@gmail.com)
+[Github.io](https://kyung-douhyun.github.io)
+[Email]<douhyun.kyung@gmail.com>
 [Github](https://github.com/Kyung-Douhyun)
 
 # 스킬
